@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img src="/Portfolio/static/images/me.jpg" alt="">
+                    <img src="/portfolio/static/images/me.jpg" alt="">
                 </div>
                 Aros <br>
                 Just a Front-end Engineer
