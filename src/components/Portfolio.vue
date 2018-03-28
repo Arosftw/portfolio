@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="col-lg-4">
 					<div class="card">
-						<img class="card-img-top" src="/static/images/work/p1.jpg" alt="Gt行動電視官網">
+						<img class="card-img-top" src="/Portfolio/static/images/work/p1.jpg" alt="Gt行動電視官網">
 						<div class="card-body">
 							<h5 class="card-title">亞太電信 Gt行動電視官網</h5>
 							<p class="card-text">VUE Prototype</p>
@@ -15,7 +15,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-						<img class="card-img-top" src="/static/images/work/p2.jpg" alt="移動商務 RWD官網(舊)">
+						<img class="card-img-top" src="/Portfolio/static/images/work/p2.jpg" alt="移動商務 RWD官網(舊)">
 						<div class="card-body">
 							<h5 class="card-title">移動商務 RWD官網(舊)</h5>
 							<p class="card-text">VUE Prototype</p>
@@ -25,7 +25,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-						<img class="card-img-top" src="/static/images/work/p3.jpg" alt="移動商務 官網(新 無RWD)">
+						<img class="card-img-top" src="/Portfolio/static/images/work/p3.jpg" alt="移動商務 官網(新 無RWD)">
 						<div class="card-body">
 							<h5 class="card-title">移動商務 官網(新 無RWD)</h5>
 							<p class="card-text">VUE Prototype</p>
@@ -35,7 +35,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-						<img class="card-img-top" src="/static/images/work/p4.jpg" alt="山富旅遊 航空自由行">
+						<img class="card-img-top" src="/Portfolio/static/images/work/p4.jpg" alt="山富旅遊 航空自由行">
 						<div class="card-body">
 							<h5 class="card-title">山富旅遊 航空自由行</h5>
 							<p class="card-text">HTML Prototype</p>
@@ -45,7 +45,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-                        <img class="card-img-top" src="/static/images/work/p5.jpg" alt="山富旅遊 高鐵假期">
+                        <img class="card-img-top" src="/Portfolio/static/images/work/p5.jpg" alt="山富旅遊 高鐵假期">
                         <div class="card-body">
                             <h5 class="card-title">山富旅遊 高鐵假期</h5>
                             <p class="card-text">HTML Prototype</p>
@@ -55,7 +55,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-                        <img class="card-img-top" src="/static/images/work/p6.jpg" alt="山富旅遊 簽證">
+                        <img class="card-img-top" src="/Portfolio/static/images/work/p6.jpg" alt="山富旅遊 簽證">
                         <div class="card-body">
                             <h5 class="card-title">山富旅遊 簽證</h5>
                             <p class="card-text">HTML Prototype</p>
@@ -65,7 +65,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-                        <img class="card-img-top" src="/static/images/work/p7.jpg" alt="山富旅遊 簽證">
+                        <img class="card-img-top" src="/Portfolio/static/images/work/p7.jpg" alt="山富旅遊 簽證">
                         <div class="card-body">
                             <h5 class="card-title">山富旅遊 投資人專區</h5>
                             <p class="card-text">HTML Prototype</p>
@@ -75,7 +75,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-                        <img class="card-img-top" src="/static/images/work/p8.jpg" alt="上報 英雄聯盟">
+                        <img class="card-img-top" src="/Portfolio/static/images/work/p8.jpg" alt="上報 英雄聯盟">
                         <div class="card-body">
                             <h5 class="card-title">上報 英雄聯盟</h5>
                             <p class="card-text">HTML Prototype</p>
@@ -85,7 +85,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-                        <img class="card-img-top" src="/static/images/work/p9.jpg" alt="六都電競爭霸戰">
+                        <img class="card-img-top" src="/Portfolio/static/images/work/p9.jpg" alt="六都電競爭霸戰">
                         <div class="card-body">
                             <h5 class="card-title">六都電競爭霸戰</h5>
                             <p class="card-text">HTML Prototype</p>
@@ -95,7 +95,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-                        <img class="card-img-top" src="/static/images/work/p10.jpg" alt="樂崎火鍋">
+                        <img class="card-img-top" src="/Portfolio/static/images/work/p10.jpg" alt="樂崎火鍋">
                         <div class="card-body">
                             <h5 class="card-title">樂崎火鍋</h5>
                             <p class="card-text">HTML Prototype</p>
@@ -105,7 +105,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="card">
-                        <img class="card-img-top" src="/static/images/work/p11.jpg" alt="元大銀行 活動頁面">
+                        <img class="card-img-top" src="/Portfolio/static/images/work/p11.jpg" alt="元大銀行 活動頁面">
                         <div class="card-body">
                             <h5 class="card-title">元大銀行 活動頁面</h5>
                             <p class="card-text">VUE Prototype</p>
