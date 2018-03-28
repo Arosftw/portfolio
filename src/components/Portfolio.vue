@@ -8,7 +8,7 @@
 						<img class="card-img-top" src="/portfolio/static/images/work/p1.jpg" alt="Gt行動電視官網">
 						<div class="card-body">
 							<h5 class="card-title">亞太電信 Gt行動電視官網</h5>
-							<p class="card-text">VUE Prototype</p>
+							<p class="card-text">VUE Prototype RWD</p>
 							<a target="_blank" href="http://gttvweb.wowotv.tw/index" class="btn btn-primary">Go</a>
 						</div>
 					</div>
@@ -18,7 +18,7 @@
 						<img class="card-img-top" src="/portfolio/static/images/work/p2.jpg" alt="移動商務 RWD官網(舊)">
 						<div class="card-body">
 							<h5 class="card-title">移動商務 RWD官網(舊)</h5>
-							<p class="card-text">VUE Prototype</p>
+							<p class="card-text">VUE Prototype RWD</p>
 							<a target="_blank" href="http://www.vascreative.com/mainbak/" class="btn btn-primary">Go</a>
 						</div>
 					</div>
@@ -78,7 +78,7 @@
                         <img class="card-img-top" src="/portfolio/static/images/work/p8.jpg" alt="上報 英雄聯盟">
                         <div class="card-body">
                             <h5 class="card-title">上報 英雄聯盟</h5>
-                            <p class="card-text">HTML Prototype</p>
+                            <p class="card-text">HTML Prototype RWD</p>
                             <a target="_blank" href="http://game.upmedia.mg/LOL/" class="btn btn-primary">Go</a>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                         <img class="card-img-top" src="/portfolio/static/images/work/p9.jpg" alt="六都電競爭霸戰">
                         <div class="card-body">
                             <h5 class="card-title">六都電競爭霸戰</h5>
-                            <p class="card-text">HTML Prototype</p>
+                            <p class="card-text">HTML Prototype RWD</p>
                             <a target="_blank" href="http://game.upmedia.mg/2017THC/" class="btn btn-primary">Go</a>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         <img class="card-img-top" src="/portfolio/static/images/work/p10.jpg" alt="樂崎火鍋">
                         <div class="card-body">
                             <h5 class="card-title">樂崎火鍋</h5>
-                            <p class="card-text">HTML Prototype</p>
+                            <p class="card-text">HTML Prototype RWD</p>
                             <a target="_blank" href="http://www.luckyshabu.com.tw" class="btn btn-primary">Go</a>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                         <img class="card-img-top" src="/portfolio/static/images/work/p11.jpg" alt="元大銀行 活動頁面">
                         <div class="card-body">
                             <h5 class="card-title">元大銀行 活動頁面</h5>
-                            <p class="card-text">VUE Prototype</p>
+                            <p class="card-text">VUE Prototype RWD</p>
                             <a target="_blank" href="https://www.yuantabank.com.tw/bankwebIMG/event/Bank_Act2018/EDM20180101/index.html" class="btn btn-primary">Go</a>
                         </div>
                     </div>
