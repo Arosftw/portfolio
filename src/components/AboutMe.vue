@@ -4,9 +4,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <img src="/portfolio/static/images/me.jpg" alt="">
+                    <br>
+                    Aros 
+                    <br>
+                    Just a Front-end Engineer
                 </div>
-                Aros <br>
-                Just a Front-end Engineer
+                
             </div>
         </div>
     </div>
