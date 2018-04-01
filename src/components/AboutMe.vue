@@ -5,11 +5,10 @@
                 <div class="col-lg-12">
                     <img src="/portfolio/static/images/me.jpg" alt="">
                     <br>
-                    Aros 
-                    <br>
-                    Just a Front-end Engineer
+                    <h3>Aros </h3>
+                    Just a Front-end Engineer.
+                    <p>Email: arosftw@gmail.com</p>
                 </div>
-                
             </div>
         </div>
     </div>
